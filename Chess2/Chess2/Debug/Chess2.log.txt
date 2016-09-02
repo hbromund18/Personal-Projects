@@ -1,0 +1,2 @@
+﻿  Source.cpp
+  Chess2.vcxproj -> c:\users\student\documents\visual studio 2015\Projects\Chess2\Debug\Chess2.exe
